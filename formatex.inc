@@ -465,7 +465,7 @@ FormatSpecifier<'w'>(output[], weapon) {
 			{!"a cane"            	}, {!"a grenade"     		}, {!"tear gas"          }, // 15, 16, 17
 			{!"a molotov cocktail"	}, {!""              		}, {!""                 }, // 18,   ,   
 			{!""                  	}, {!"a 9mm"         		}, {!"a silenced 9mm"}, //   , 22, 23
-			{!"a desert eagle"    	}, {!"a shotgun"     		}, {!"swanoff shotgun"         }, // 24, 25, 26
+			{!"a desert eagle"    	}, {!"a shotgun"     		}, {!"sawnoff shotgun"         }, // 24, 25, 26
 			{!"a combat shotgun"  	}, {!"a micro uzi"      	}, {!"an mp5"           }, // 27, 28, 29
 			{!"an ak-47"          	}, {!"an m4"         		}, {!"a tec-9"          }, // 30, 31, 32
 			{!"a country rifle"   	}, {!"a sniper rifle"		}, {!"an rpg" }, // 33, 34, 35
